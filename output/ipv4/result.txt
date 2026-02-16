@@ -1,19 +1,20 @@
 🕘️更新时间,#genre#
-2026-02-16 18:41:24,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-17 06:19:29,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
@@ -32,8 +33,8 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -55,6 +56,7 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 
 🌊港·澳·台,#genre#
@@ -66,15 +68,14 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 
 🎬电影频道,#genre#
 靖天戏剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGSGiDeEPqIEJVx3us26kmLFaDm0KCC0qIr1Xros8zGoEPNHaFzXQLAiFBlbr6qSvMN5Z7yzGqNwECOOaVoXxtgc_IdHKrPb4FGmjpSksjE4YiIB4zSSExvnI840FbChvM6nuX5fTEJvHNzPV2pAMh-QJEfasmpz5B3lviCX9MWMdXaAo8lT1pjXYD8bOrAEL1aJIrb60F_VojtF9C3btvEQ.m3u8?u=1757123819
-天映经典,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGm2__qUOGzGCukQtY2ilR797mPHZ6g-lFKX1cV3sAx0FgHx9wBss75ZT3wNOXjvCiYPH52ADPm8Rw5jf70BxNxDab_QGuIB_j-MaHjF3cT68cpuQTcw3r3GJCrlglwUiwADTHKgffYzZgyuD_jAjXJKkqf4iPbRnMNwplTJ2ThhvcIuKkZK0T5ZV-HR8gNqGPKDppMpK6gitsfzcocB7zLQ.m3u8?u=1757123819
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
 劲爆体育,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0TjnHint92FaGOdQKWbGgIqMxjYHJKfKmz5-sDiesmTbAxE-GePCEhWtmcc34I1qpRF-7LjmYkvzb6Z031xjMJ9oqMvNwqQk-mVldD0G6Jso-oleU3z0vdP5jZk5oHwysitVUXSTbua0xNvBg3gp7kGtcMQsyg_Kg-hfWgLQr5eOhIy4zHbYYag-td6NcatUaPE49DgqVaZv5CGKGGVfVg.m3u8?u=1757123819
-天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
