@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260711223834 +0800">
+<tv date="20260712110544 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8934,9 +8934,6 @@
 	<programme channel="东方财经" start="20260713013000 +0800" stop="20260713015000 +0800">
 		<title lang="zh">文化访谈录(317)</title>
 	</programme>
-	<programme channel="东方财经" start="20260713013000 +0800" stop="20260713015000 +0800">
-		<title lang="zh">文化访谈录(317)</title>
-	</programme>
 	<programme channel="东方财经" start="20260713015000 +0800" stop="20260713015500 +0800">
 		<title lang="zh">直击引领区:数字工匠的先锋答卷</title>
 	</programme>
@@ -8999,6 +8996,9 @@
 	</programme>
 	<programme channel="东方财经" start="20260713125600 +0800" stop="20260713130000 +0800">
 		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260713130000 +0800" stop="20260713150000 +0800">
+		<title lang="zh">市场零距离</title>
 	</programme>
 	<programme channel="东方财经" start="20260713130000 +0800" stop="20260713150000 +0800">
 		<title lang="zh">市场零距离</title>
@@ -10215,9 +10215,6 @@
 	<programme channel="法治天地" start="20260713012000 +0800" stop="20260713014500 +0800">
 		<title lang="zh">案件聚焦:假货现形记</title>
 	</programme>
-	<programme channel="法治天地" start="20260713012000 +0800" stop="20260713014500 +0800">
-		<title lang="zh">案件聚焦:假货现形记</title>
-	</programme>
 	<programme channel="法治天地" start="20260713014500 +0800" stop="20260713022000 +0800">
 		<title lang="zh">和大律师面对面(5052):郑建</title>
 	</programme>
@@ -10301,6 +10298,9 @@
 	</programme>
 	<programme channel="法治天地" start="20260713130000 +0800" stop="20260713133000 +0800">
 		<title lang="zh">案件聚焦:假货现形记</title>
+	</programme>
+	<programme channel="法治天地" start="20260713133000 +0800" stop="20260713135500 +0800">
+		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
 	</programme>
 	<programme channel="法治天地" start="20260713133000 +0800" stop="20260713135500 +0800">
 		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
@@ -10752,31 +10752,28 @@
 	<programme channel="海南卫视" start="20260711233000 +0800" stop="20260712000500 +0800">
 		<title lang="zh">乡村振兴电视夜校</title>
 	</programme>
-	<programme channel="海南卫视" start="20260712000500 +0800" stop="20260712003500 +0800">
+	<programme channel="海南卫视" start="20260712000700 +0800" stop="20260712003800 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260712003500 +0800" stop="20260712010000 +0800">
+	<programme channel="海南卫视" start="20260712003800 +0800" stop="20260712010300 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20260712010000 +0800" stop="20260712023000 +0800">
+	<programme channel="海南卫视" start="20260712010300 +0800" stop="20260712023300 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260712010000 +0800" stop="20260712023000 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20260712023000 +0800" stop="20260712032000 +0800">
+	<programme channel="海南卫视" start="20260712023300 +0800" stop="20260712032300 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="海南卫视" start="20260712032000 +0800" stop="20260712035000 +0800">
+	<programme channel="海南卫视" start="20260712032300 +0800" stop="20260712035000 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
 	<programme channel="海南卫视" start="20260712035000 +0800" stop="20260712042000 +0800">
 		<title lang="zh">全球国货之光</title>
 	</programme>
-	<programme channel="海南卫视" start="20260712042000 +0800" stop="20260712045600 +0800">
+	<programme channel="海南卫视" start="20260712042000 +0800" stop="20260712045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260712045600 +0800" stop="20260712063500 +0800">
+	<programme channel="海南卫视" start="20260712045900 +0800" stop="20260712063500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260712063500 +0800" stop="20260712070000 +0800">
@@ -10787,6 +10784,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260712070100 +0800" stop="20260712073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260712073300 +0800" stop="20260712180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260712073300 +0800" stop="20260712180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -10827,9 +10827,6 @@
 	<programme channel="海南卫视" start="20260713010000 +0800" stop="20260713023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260713010000 +0800" stop="20260713023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20260713023500 +0800" stop="20260713030500 +0800">
 		<title lang="zh">全球国货之光</title>
 	</programme>
@@ -10853,6 +10850,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260713070100 +0800" stop="20260713073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260713073300 +0800" stop="20260713180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260713073300 +0800" stop="20260713180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -11709,9 +11709,6 @@
 	<programme channel="游戏风云" start="20260713013000 +0800" stop="20260713014500 +0800">
 		<title lang="zh">游戏大厅:喷射战机(2)</title>
 	</programme>
-	<programme channel="游戏风云" start="20260713013000 +0800" stop="20260713014500 +0800">
-		<title lang="zh">游戏大厅:喷射战机(2)</title>
-	</programme>
 	<programme channel="游戏风云" start="20260713014500 +0800" stop="20260713020000 +0800">
 		<title lang="zh">游戏大厅:喷射战机(3)</title>
 	</programme>
@@ -11771,6 +11768,9 @@
 	</programme>
 	<programme channel="游戏风云" start="20260713131500 +0800" stop="20260713133000 +0800">
 		<title lang="zh">游戏大厅:人猿星球最后的边疆(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260713133000 +0800" stop="20260713134500 +0800">
+		<title lang="zh">游戏大厅:人猿星球最后的边疆(2)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260713133000 +0800" stop="20260713134500 +0800">
 		<title lang="zh">游戏大厅:人猿星球最后的边疆(2)</title>
