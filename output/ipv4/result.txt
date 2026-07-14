@@ -1,18 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-14 19:18:33,http://121.57.88.206:898/hls/3/index.m3u8
+2026-07-15 06:47:36,http://121.57.88.206:898/hls/3/index.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 
 💰央视付费频道,#genre#
-文化精品,http://107.150.60.122/live/ysjp.m3u8
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+文化精品,http://107.150.60.122/live/ysjp.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
@@ -21,7 +18,6 @@ CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://60.10.139.113:8801/hls/31/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
